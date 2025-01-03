@@ -1,17 +1,5 @@
 title: "Alex Glaubach"
 description: "Welcome to my personal website!"
+theme: minima
 baseurl: ""
 url: "https://alexglaubach.com"
-theme: minima
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about/
-  - name: Blog
-    link: /blog/
