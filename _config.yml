@@ -1,5 +1,5 @@
 title: "Alex Glaubach"
 description: "Welcome to my personal website!"
-theme: minima
+theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://alexglaubach.com"
