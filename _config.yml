@@ -3,3 +3,7 @@ description: "Welcome to my personal website!"
 baseurl: ""
 url: "https://alexglaubach.com"
 theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
