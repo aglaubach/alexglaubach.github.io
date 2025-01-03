@@ -2,7 +2,7 @@ title: "Alex Glaubach"
 description: "Welcome to my personal website!"
 baseurl: ""
 url: "https://alexglaubach.com"
-theme: minima
+theme: lanyon
 
 plugins:
   - jekyll-sitemap
